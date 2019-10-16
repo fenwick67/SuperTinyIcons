@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Node.js" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><defs><linearGradient id="a"><stop offset="0" stop-color="#41873f"/><stop offset=".5" stop-color="#5aa945"/><stop offset="1" stop-color="#6cc04a"/></linearGradient><linearGradient href="#a" id="c" y1=".66" x2="1.68" y2="1.4" x1=".01"/><linearGradient href="#a" id="d" x1="1" y1="0" x2="0" y2="0"/><linearGradient href="#a" id="b" x1=".23" y1=".04" x2="-.04" y2=".83"/></defs>
+<path d="M98 155c-5 3-9 9-9 15v172c0 6 4 12 9 15l149 86c6 3 10 3 15 2l152-88c5-3 9-9 9-12V170c0-6-4-12-7-14L265 69l-9-3-9 3z" fill="url(#b)"/><path d="M93 353l4 4 150 86c5 3 9 3 13 2l158-287-4-3a117324 117324 0 00-155-88z" fill="url(#c)"/><path d="M247 69L99 154l160 291 5-1 150-87c4-2 7-7 8-9L259 67l-5-1-7 3z" fill="url(#d)"/></svg>
